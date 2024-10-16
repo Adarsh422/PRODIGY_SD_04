@@ -1,18 +1,19 @@
-# Implement a Simple Contact Management System
+# Implement a Sudoku Solver
 
 ## Description
-Develop a program that allows users to store and manage contact information. The program should provide options to add a new contact by entering their name, phone number, and email address. It should also allow users to view their contact list, edit existing contacts, and delete contacts if needed. The program should store the contacts in memory or in a file for persistent storage.
+Create a program that solves Sudoku puzzles automatically. The program should take an input grid representing an unsolved Sudoku puzzle and use an algorithm to fill in the missing numbers.
+It should use backtracking or other suitable techniques to explore possible solutions and find the correct arrangement of numbers for the puzzle. Once solved, the program should display the completed Sudoku grid.
 
 ## Features
 
-- Add New Contact
-- View Contact List
-- Edit Contact
-- Delete Contact
-- Persistent Storage
-- Search for a Contact
-- User-Friendly Interface
-- Exit Program and Save Contacts
+- Input Sudoku Grid
+- Backtracking Algorithm
+- Sudoku Rule Validation
+- Solving Process
+- Display Solved Grid
+- Handle Invalid or Unsolvable Grids
+- Optional Features
+- User-Friendly Input and Output
 
 
 ## Installation and Usage
